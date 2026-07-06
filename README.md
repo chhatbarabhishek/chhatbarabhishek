@@ -1,24 +1,68 @@
-# Hi there 👋, I'm Abhishek Chhatbar
+# 👋 Hi, I'm Abhishek Chhatbar  
 
-🚀 Passionate about building scalable web apps, automating workflows, and exploring AI-driven solutions.  
-💻 Skilled in Python, JavaScript, PHP, Flask, AngularJS, and Machine Learning.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Web%20Developer-orange?style=for-the-badge&logo=javascript" />
+</p>
 
-## 🔧 Technologies & Tools
-- Languages: Python | JavaScript | PHP  
-- Frameworks: Flask | AngularJS  
-- Tools: Git | Chart.js | Scikit-learn  
+---
+
+## 🚀 About Me
+- 💻 Passionate about **automation, AI, and full-stack development**  
+- 🌱 Exploring **advanced ML models & scalable web apps**  
+- 🎯 Goal: Build impactful solutions for real-world problems  
+- ✨ Fun Fact: I love turning ideas into working prototypes within days  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
 
 ## 📂 Featured Projects
-- 📝 [Certificate Generator](https://github.com/chhatbarabhishek/Certificate-Generator) – Automates certificate creation.  
-- 📊 [Stock Analyzer Tool](https://github.com/chhatbarabhishek/Stock-Analyzer-Tool) – Visualizes stock performance.  
-- 📈 [Stock Prediction Web App](https://github.com/chhatbarabhishek/Stock-Prediction-Web-App) – Predicts stock prices using ML.  
-- 👤 [Face Recognition System](https://github.com/chhatbarabhishek/Face-recognition-system-) – Identifies faces with AI.  
-- 🚗 [Vehicle Rental Platform](https://github.com/chhatbarabhishek/VRS-Ride-A-Vehicle-Rental-Platform-) – Car rental management system.  
+- 📝 [Certificate Generator](https://github.com/chhatbarabhishek/Certificate-Generator) – Automates certificate creation for events  
+- 📊 [Stock Analyzer Tool](https://github.com/chhatbarabhishek/Stock-Analyzer-Tool) – Visualizes stock performance with charts  
+- 📈 [Stock Prediction Web App](https://github.com/chhatbarabhishek/Stock-Prediction-Web-App) – Predicts stock prices using ML models  
+- 👤 [Face Recognition System](https://github.com/chhatbarabhishek/Face-recognition-system-) – AI-powered facial recognition  
+- 🚗 [Vehicle Rental Platform](https://github.com/chhatbarabhishek/VRS-Ride-A-Vehicle-Rental-Platform-) – Car rental management system  
+
+---
 
 ## 📊 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhatbarabhishek&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chhatbarabhishek&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhatbarabhishek&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhatbarabhishek&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 Built multiple **automation tools** used in academic and professional settings  
+- 📈 Developed **stock prediction models** with real-world datasets  
+- 🤝 Collaborated on **open-source projects** and contributed to community learning  
+
+---
 
 ## 🌐 Connect with Me
-- Portfolio: [abhishek-portfolio](https://github.com/chhatbarabhishek/abhishek-portfolio)  
-- LinkedIn: [www.linkedin.com/chhatbarabhishek]  
-- Email: [chhatbarabhishek4@gmail.com]  
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chhatbarabhishek">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
