@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhatbarabhishek&show_icons=true&theme=tokyonight)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chhatbarabhishek&theme=tokyonight)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhatbarabhishek&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=chhatbarabhishek&color=blue)
+![Followers](https://img.shields.io/github/followers/chhatbarabhishek?style=social)
+![Stars](https://img.shields.io/github/stars/chhatbarabhishek?style=social)
 </p>
 
 ---
@@ -56,10 +56,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/chhatbar-abhishek-a13a352b2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:chhatbarabhishek4@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chhatbarabhishek">
