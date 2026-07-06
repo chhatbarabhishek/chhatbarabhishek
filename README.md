@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chhatbarabhishek&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhatbarabhishek&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhatbarabhishek&layout=compact&theme=tokyonight" />
+  ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhatbarabhishek&show_icons=true&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chhatbarabhishek&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhatbarabhishek&layout=compact&theme=tokyonight)
 </p>
 
 ---
