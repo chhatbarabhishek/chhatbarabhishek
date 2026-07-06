@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=chhatbarabhishek&color=blue)
-![Followers](https://img.shields.io/github/followers/chhatbarabhishek?style=social)
-![Stars](https://img.shields.io/github/stars/chhatbarabhishek?style=social)
-</p>
-
----
-
 ## 🏆 Achievements
 - 🥇 Built multiple **automation tools** used in academic and professional settings  
 - 📈 Developed **stock prediction models** with real-world datasets  
